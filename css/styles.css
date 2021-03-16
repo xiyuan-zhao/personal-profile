@@ -38,6 +38,7 @@ h4 {
 p {
     font-size: 1.3em;
     color: #40514E;
+    line-height: 2.5;
 }
 
 a {
@@ -104,7 +105,7 @@ html {
 }
 
 .personal-statement {
-    width: 50%;
+    width: 60%;
     margin: auto;
     line-height: 2.5;
     text-align: justify-all;
